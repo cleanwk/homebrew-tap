@@ -1,6 +1,6 @@
 cask "graft" do
   version "0.0.2"
-  sha256 "52e1412b980355d3b4ee0295e0ef7bb0c1d1400f646d37d6b3dc8dfa1cc93850"
+  sha256 "cb681c86fe70dade5e8f61a0741abebdb3a7d93a7ff9db532e45f1d1064bb23a"
 
   url "https://github.com/cleanwk/graft/releases/download/v#{version}/Graft_#{version}_aarch64.dmg",
       verified: "github.com/cleanwk/graft/"
