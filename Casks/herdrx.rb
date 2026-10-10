@@ -1,6 +1,6 @@
 cask "herdrx" do
-  version "0.1.6"
-  sha256 "9065a10eff6a71a02160008cf0a23374def068e328b718b4ae11ea04e5adacf0"
+  version "0.1.7"
+  sha256 "22d009c7de86191e8465f4e9ff1e2d8b16edb80a4b52d3c9df2d1295c2c2e7dd"
 
   url "https://github.com/cleanwk/herdrX/releases/download/v#{version}/HerdrX-#{version}-universal.zip"
   name "HerdrX"
